@@ -6,4 +6,6 @@ WordPress plugin to set the seconds of publish/schedule time of post types to ze
 
 🚀 So, I wrote this lightweight plugin to resolve this issue and I have open sourced it so that anyone else facing the same problem can use the plugin to get rid of this issue 💯
 
+<hr />
+
 &copy; [Ashar Irfan](https://asharirfan.com)

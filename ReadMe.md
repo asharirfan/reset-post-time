@@ -1,4 +1,6 @@
-# Reset Post Time
+<div align="center">
+<h1> Reset Post Time </h1>
+</div>
 
 WordPress plugin to set the seconds of publish/schedule time of post types to zero.
 
